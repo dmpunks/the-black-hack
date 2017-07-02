@@ -1,8 +1,8 @@
-# Ang Itim Na Taga
+# The Black Hack
 
-(kasulatan hango sa Ang Item Na Taga v1.2 - 2016-04-03)
+(kasulatan hango sa The Black Hack v1.2 - 2016-04-03)
 
-Isang ‘OSR’ Unang Edisyong Taga  
+Isang ‘OSR’ Unang Edisyong Hack  
 dinebelop ni  
 DAVID BLACK  
 
@@ -18,7 +18,7 @@ Walang anumang pagkakasunod - Peter Regan, Tony Tucker, Olav Nygård, Chris McD
 
 ## Ano 'To?
 
-Ang Itim Na Taga (AINT) ay isang tradisyonal na tabletop roleplaying game, na nilalaro gamit ang mga papel, mga lapis, at dais - ginagamit nito ang Orihinal 1970s Fantasy Roleplaying Game bilang basehan. Ngunit nagdadagdag at nagbabawas ito ng mga elemento upang makagawa ng kaka-iba at tinalagusang lasa ng orihinal na roleplaying game.
+The Black Hack (TBH) ay isang tradisyonal na tabletop roleplaying game, na nilalaro gamit ang mga papel, mga lapis, at dais - ginagamit nito ang Orihinal 1970s Fantasy Roleplaying Game bilang basehan. Ngunit nagdadagdag at nagbabawas ito ng mga elemento upang makagawa ng kaka-iba at tinalagusang lasa ng orihinal na roleplaying game.
 
 ## Ang pangunahing mekaniko
 
@@ -58,106 +58,106 @@ Ang mga halimaw ay mayroong 1 puntos ng baluti bawat **HD** lagpas sa 1, upang m
 Kapag ang isang tauhan ay nagsuot ng baluti na hindi nakalista para sa klase nila, kailangan nila idagdag ang total **Puntos ng Baluti** (kahit gaano kadami na ang nagamit nila) sa kahit anong roll para **Umatake** o **Iwas Pinsala**.
 
 
-| ITEM                     |  COST  | USAGE DIE |           NOTES            |
-|:-------------------------|:------:|:---------:|:--------------------------:|
-| Gambeson                 |   50   |     -     |       2 Armor points       |
-| Leather                  |  100   |     -     |       4 Armor points       |
-| Chain Mail               |  350   |     -     |       6 Armor points       |
-| Plate & Mail             |  600   |     -     |       8 Armor points       |
-| Shield Small/Large       | 50/100 |     -     |      2/4 Armor points      |
-| Backpack                 |   5    |     -     |       Carry +2 extra       |
-| Flask of oil             |   2    |    d6     |             -              |
-| Work Tools               |   2    |     -     |             -              |
-| Holy Symbol              |   25   |     -     |  +2 to WIS when banishing  |
-| Holy Water               |   25   |    d4     |             -              |
-| Iron Spikes              |   1    |     -     |             -              |
-| Lantern                  |   10   |     -     |             -              |
-| Handheld mirror          |   5    |     -     |             -              |
-| Preserved Rations        |   15   |    d8     |             -              |
-| Fresh Rations            |   5    |    d4     |             -              |
-| 50' Rope                 |   1    |     -     |             -              |
-| Small Sack               |   1    |     -     |             -              |
-| Large Sack               |   2    |     -     |             -              |
-| Thieves Tools            |   25   |     -     |             -              |
-| Flint & Steel            |   3    |     -     |             -              |
-| Torches (6)              |   1    |    d6     | Each Torch has a Usage Die |
-| Wineskin                 |   1    |    d6     |             -              |
-| Wine                     |   1    |     -     |             -              |
-| Assorted Common Herbs    |   10   |    d8     |             -              |
-| 10' Pole                 |   1    |     -     |             -              |
-| Quiver of Arrows / Bolts |   10   |    d10    |             -              |
-| 2-Handed Weapon          |   50   |     -     |             -              |
+| BAGAY                    | HALAGA | DISENG PAGGAMIT  |          TALAAN                 |
+|:-------------------------|:------:|:----------------:|:-------------------------------:|
+| Gambeson                 |   50   |     -            |    2 Puntos ng Baluti           |
+| Leather                  |  100   |     -            |    4 Puntos ng Baluti           |
+| Chain Mail               |  350   |     -            |    6 Puntos ng Baluti           |
+| Plate at Mail            |  600   |     -            |    8 Puntos ng Baluti           |
+| Kalasag Maliit/Malaki    | 50/100 |     -            |  2/4 Puntos ng Baluti           |
+| Napsak                   |   5    |     -            |    Dalahin +2 dagdag            |
+| Bote ng langis           |   2    |    d6            |             -                   |
+| Mga gamit sa trabaho     |   2    |     -            |             -                   |
+| Banal na Simbolo         |   25   |     -            |  +2 sa KAA pag nagtataboy       |
+| Agwa-Bendita             |   25   |    d4            |             -                   |
+| Malaking Bakal na Pako   |   1    |     -            |             -                   |
+| Parol                    |   10   |     -            |             -                   |
+| Salaming Pangkamay       |   5    |     -            |             -                   |
+| Preserbadong Rasyon      |   15   |    d8            |             -                   |
+| Sariwang Rasyon          |   5    |    d4            |             -                   |
+| 50' Lubid                |   1    |     -            |             -                   |
+| Maliit na Sako           |   1    |     -            |             -                   |
+| Malaking Sako            |   2    |     -            |             -                   |
+| Gamit ng Magnanakaw      |   25   |     -            |             -                   |
+| Bato at Bakal            |   3    |     -            |             -                   |
+| Sulo (6)                 |   1    |    d6            |Bawat Sulo ay may Diseng Paggamit|
+| Wineskin                 |   1    |    d6            |             -                   |
+| Alak                     |   1    |     -            |             -                   |
+| Sari-saring Talbos       |   10   |    d8            |             -                   |
+| 10' Poste                |   1    |     -            |             -                   |
+| Lalagyan ng Palaso/Bangay|   10   |    d10           |             -                   |
+| Armas na Pang-2 Kamay    |   50   |     -            |             -                   |
 
 
-## Converting saves
+## Pagconvert ng saves
 
-The Black Hack ignores saves and instead asks the player to roll attribute tests when any spell, trap or effect would impact them - using the below as a guide. Remember the advice in the **Powerful Opponents** section.
+Ang Black Hack ay hindi nagbibigay-pansin sa mga save at sa halip ay hinihiling ang manlalaro na mag-roll ng mga pagsubok na katangian kapag may anumang orasyon, bitag o epekto ang makakaapekto sa mga ito - gamit ang sa ibaba bilang isang gabay. Alalahanin ang payo sa seksyon na ** Napakahusay na mga Kalaban **
 
-|                  STR                   |                 DEX                 |            CON            |
-|:--------------------------------------:|:-----------------------------------:|:-------------------------:|
-| Physical Harm that *cannot* be dodged. | Physical Harm that *can* be dodged. | Poison, Disease or Death. |
+|                        LAK                         |                        KNK                         |            PAN            |
+|:--------------------------------------------------:|:--------------------------------------------------:|:-------------------------:|
+| Pisikal na Kapahamakan na *hindi* maaaring iwasan. | Pisikal na Kapahamakan na *hindi* maaaring iwasan. | Lason, Sakit o Kamatayan  |
 
-|             INT             |           WIS            |        CHA        |
-|:---------------------------:|:------------------------:|:-----------------:|
-| Resisting Spells and Magic. | Deception and Illusions. | Charming effects. |
+|                  TAL                  |            KAA              |            CHA             |
+|:-------------------------------------:|:---------------------------:|:--------------------------:|
+| Paglabas sa mga Orasyon at Salamangka | Mga Panlilinlang at Ilusyon | Mga Kahanga-hangang epekto |
 
-## Players turn
+## Oras ng Manlalaro
 
-During a player’s turn a character may move and perform an action. They could attack, look for a clue, talk with an NPC, cast a spell - interacting with the world is an action. Often they will test their attributes to determine the outcome.
+Habang nasa oras ng isang manlalaro, ang kanyang tauhan ay maaring gumalaw o gumawa ng aksyon. Sila ay maaaring umatake, maghanap ng bakas, kumausap sa isang NPC, mabalanin ng orasyon - kahit anong pakikipag-ugnay sa mundo ay maituturing na isang aksyon. Madalas ay susubukan nila ang kanilang mga katangian upang matukoy ang kakalabasan.
 
-## Time & turns
+## Oras
 
-There are 2 important types of tracked time - **Moments** (*rounds*) and **Minutes** (*turns*). **Moments** are used during combat and fast paced scenes of danger and **Minutes** are used when exploring and adventuring. A GM may advance the clock as they need substituting **Minutes** for **Hours**, **Days** or even **Months** should the adventure require it.
+Mayroong 2 importanteng tipo ng oras na sinusubaybayan - **Sandali** (*rounds*) at **Minuto** (*turns*). **Sandali** ay ginagamit sa mga panahon ng labanan at mga eksenang panganib na mabibilis at **Minuto** naman ay ginagamit habang naggagalugad o nagsasapanganib. Maaaring isulong ng isang GM ang orasan kung kailangan nila sa pagpapapalit-palit ng **Mga Minuto** para sa **Mga Oras**, **Mga Araw** o kahit **Buwan** ayon na pangangailangan ng pakikipagsapalaran.
 
-## Movement & distance
+## Paggalaw at distansya
 
-Rather than track precise numbers, TBH uses 4 abstract ranges for measuring distances. **Close**, **Nearby**, **Far-Away** and **Distant**. On their turn every character can move somewhere **Nearby** as part of an action, performing that action at any stage of the move. They can forgo their action and move somewhere **Far-Away** instead. Anything beyond **Far-Away** can be classified as **Distant** and would take 3 moves to get to.
+Sa halip na sumubaybay sa mga tumpak na numero, gumagamit ang TBH ng 4 abstract na hanay para sa pagsukat ng mga distansya. **Katabi**, **Kalapit**, **Kalayo** at **Sobrang Layo**. Sa kanilang turn, bawat tauhan ay maaaring lumipat sa isang lugar na **Kalapit** bilang bahagi ng isang aksyon, gumaganap na aksyon sa anumang yugto ng paglipat. Maaari nilang talikuran ang kanilang pagkilos at lumipat sa isang lugar na **Kalayo** sa halip. Ang anumang bagay na lampas ng **Kalayo** ay maaaring i-uri bilang **Sobrang Layo** at kakailanganin ng 3 pag-galaw upang mapuntahan.
 
-This system is designed to support the narrative ‘theatre of the mind’ style of play, and is less concerned about tracking squares and fiddly distances. For converting existing movement rates or measures (for spells or areas of effect) use the following as a guide :
+Sinadya ang sistemang ito upang suportahan ang estilo paglalaro na 'teatro ng pag-iisip', at hindi gaanong nababahala tungkol sa mga parisukat sa pagsubaybay at maliliit na distansya. Para sa pag-convert ng mga umiiral na rate ng paggalaw o mga panukala (para sa mga orasyon o mga lugar ng epekto) gamitin ang mga sumusunod bilang isang gabay:
 
-|  CLOSE  |  NEARBY  |  FAR AWAY  |
-|:-------:|:--------:|:----------:|
-| 0 - 5ft | 5 - 60ft | 60 - 120ft |
+|  KATABI  |  KALAPIT  |  KALAYO    |
+|:--------:|:---------:|:----------:|
+| 0 - 5ft  | 5 - 60ft  | 60 - 120ft |
 
-## Initiative
+## Pagkukusa
 
-When combat breaks out, everyone must be sorted into an order so they each get to act and react in turn. Every character tests their **DEX**, those that succeed, take their turn before their opponents, they must then act as a group - deciding their own order for actions. Those that fail their **DEX** tests, go after their opponents.
+Kapag nagsimula ang isang labanan, ang bawat isa ay dapat na pinagsunod-sunod sa isang order upang ang bawat isa ay makakuha ng kanyang oras na gumalaw at gumawa ng aksyon. Pasubukin ang bawat karakter sa kanilang **KNK**, yaong mga nagtagumpay, ay pwedeng kumuha ng kanilang turn bago ang kanilang mga kalaban, dapat na kumilos sila bilang isang grupo - pagpapasya sa kanilang sariling kaayusan para sa mga aksyon. Yaong mga nabigo sa pagsubok ng kanilang mga **KNK** ay makakagalaw lamang pagkatapos ng kanilang mga kalaban.
 
-## Monster HD
+## HD ng Halimaw
 
-**HD** represents a monster's level and the number of d8 rolled to determine its HP.
+**HD** ay kumakatawan sa lakas ng isang halimaw at sa bilang ng mga d8 na iro-roll upang matukoy ang kanyang HP.
 
 
-## Attacking, defending & damage
+## Pag-atake, pagtatanggol at pinsala
 
-When a character attacks a creature they must roll below their **STR** stat for a **Melee Attack** or **DEX** for a **Ranged Attack**. Likewise, when a creature attacks, the character must roll below its **STR** against a Melee Attack and **DEX** against a Ranged Attack to avoid taking damage. A GM will often give the stat required for the test.
+Kapag ang isang tauhan ay umatake ng isang nilalang dapat silang magroll ng mas mababa ng kanilang **LAK** na stat para sa isang **Pangmalapitang Atake** o **KNK** para sa isang **Pangmalayuang Atake**. Gayundin, kapag ang isang nilalang ay inatake, ang karakter ay dapat magroll ng mas mababa sa **LAK** nito laban sa isang Pangmalapitang Atake at **KNK** laban sa isang Pangmalayuang Atake upang maiwasan ang pagkuha ng pinsala. Ang isang GM ay madalas na magbigay ng stat na kinakailangan para sa pagsubok.
 
-The damage an attack deals is based on the character’s class or the number of **HD** a monster has.
+Ang pinsala sa isang pag-atake ay batay sa klase ng character o sa bilang ng **HD** na taglay ng isang halimaw.
 
-To make a **Melee Attack** an opponent must be **Close**. **Ranged Attacks** against **Close** opponents are possible, but the attacker suffers a **Disadvantage**.
+Upang gumawa ng isang ** Pangmalapitang Atake** ang isang kalaban ay dapat na **Katabi** lamang. Ang **Pangmalayuang Atake** laban sa kalaban na **Katabi** lamang ay posible, ngunit ang sumasalakay ay mahihirapan ng isang **Disbentaha**.
 
-**Monsters** deal damage based on their **HD** - *refer to the table opposite*, but if you’d prefer to use the damage stats listed in a module that you are playing, you can certainly do that instead.
+Ang **mga halimaw** ang nagbibigay ng pinsala ayon sa kanilang **HD** - *Sumangguni sa tapat ng talahanayan*, ngunit kung mas gusto mong gamitin ang mga istatistika ng pinsala na nakalista sa isang module na iyong nilalaro, maaari yun na lang ang iyong gawin sa halip.
 
-## Two handed weapons
+## Mga Sandatang Pang-Dalawang Kamay
 
-Larger, more deadly weapons are handled simply by adding +2 to any dice rolled with them. They deal additional damage, but are also harder to hit with.
+Ang mga mas malalaki, at mas nakamamatay na mga sandata ay nagdaragdag lamang ng +2 sa kahit anong dice na ni-roll kasama gamit sila. Nagbibigay ang mga ito ng karagdagang pinsala, ngunit mas mahirap din silang tumama.
 
-## Critical damage
+## Kritikal na pinsala
 
-If a player making an attack rolls a 1, they double the result of the damage dice they roll. If they roll a 20 when avoiding an attack, they take double damage. **Armor Points** are used normally.
+Kung ang isang manlalaro ay naka-roll sa pag-atake ng isang 1, dodoblehin nila ang resulta ng pinsala na dice na kanilang iroroll. Kung naka-roll sila ng 20 sa pag-iwas sa isang atake, doble ang pinsalang matatamo nila. Ang mga **Puntos na Baluti** ay karaniwang ginagamit.
 
-| Monster HD |     Damage     |
-|:----------:|:--------------:|
-|     1      |     d4 (2)     |
-|     2      |     d6 (3)     |
-|     3      |    2d4 (4)     |
-|     4      |    d10 (5)     |
-|     5      |    d12 (6)     |
-|     6      |  d6 + d8 (7)   |
-|     7      |    2d8 (8)     |
-|     8      |    3d6 (9)     |
-|     9      |   2d10 (10)    |
-|     10     | d10 + d12 (11) |
+| HD ng Halimaw |     Pinsala     |
+|:-------------:|:---------------:|
+|        1      |     d4 (2)     |
+|        2      |     d6 (3)     |
+|        3      |    2d4 (4)     |
+|        4      |    d10 (5)     |
+|        5      |    d12 (6)     |
+|        6      |  d6 + d8 (7)   |
+|        7      |    2d8 (8)     |
+|        8      |    3d6 (9)     |
+|        9      |   2d10 (10)    |
+|        10     | d10 + d12 (11) |
 
 ## Death & dying
 
